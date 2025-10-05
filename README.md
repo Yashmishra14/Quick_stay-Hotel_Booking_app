@@ -8,7 +8,9 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### 🏠 Homepage
 ![Homepage](https://via.placeholder.com/800x400/2563eb/ffffff?text=Homepage+with+Hero+Section+and+Search+Form)
-<img width="1707" height="919" alt="image" src="https://github.com/user-attachments/assets/a68ce3fb-0d50-450d-9ae8-667abb395940" />
+
+<img width="1899" height="928" alt="image" src="https://github.com/user-attachments/assets/d487bd62-0add-4c70-8def-e1a031715d66" />
+
 
 
 **Features shown:**
@@ -19,9 +21,12 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### 🏨 Featured Hotels
 ![Featured Hotels](https://via.placeholder.com/800x400/1f2937/ffffff?text=Featured+Hotels+Section+with+Indian+Hotels)
+
 ![
    
 ](image.png)
+<img width="1836" height="757" alt="image" src="https://github.com/user-attachments/assets/4b317949-b3d6-4a07-a6b2-40442bc8746c" />
+
 
 **Features shown:**
 - Four luxury Indian hotel cards: Taj Palace Hotel, Oberoi Mumbai, ITC Gardenia, Leela Palace Chennai
@@ -32,6 +37,8 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### 🔍 Hotel Search & Filtering
 ![Hotel Search](https://via.placeholder.com/800x400/374151/ffffff?text=Advanced+Hotel+Search+with+Filters)
+<img width="1521" height="793" alt="image" src="https://github.com/user-attachments/assets/772205b9-61a5-4ee5-bc0d-21b34decd7df" />
+
 
 **Features shown:**
 - Advanced filtering sidebar with search, city, and price range filters
@@ -42,6 +49,8 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### 🎯 Experiences
 ![Experiences](https://via.placeholder.com/800x400/7c3aed/ffffff?text=Hotel+Experiences+and+Activities)
+<img width="1856" height="929" alt="image" src="https://github.com/user-attachments/assets/680caaf1-d008-4944-966e-a3875c3d40fa" />
+
 
 **Features shown:**
 - Category filters: All Experiences, Wellness & Spa, Culinary, Culture & Heritage
@@ -52,6 +61,8 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### ℹ️ About Us
 ![About Us](https://via.placeholder.com/800x400/1e40af/ffffff?text=About+Us+Page+with+Company+Story)
+<img width="1707" height="919" alt="image" src="https://github.com/user-attachments/assets/2a16594d-fc34-4362-9389-eab4b6631319" />
+
 
 **Features shown:**
 - Professional hero section with company branding
@@ -263,4 +274,5 @@ For support, email support@hotelbooking.com or join our Slack channel.
 ---
 
 **Built with ❤️ for the Indian hospitality market**
+
 
