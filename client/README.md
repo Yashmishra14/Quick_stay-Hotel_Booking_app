@@ -5,7 +5,7 @@ A modern, responsive hotel booking application built with React and Vite, featur
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400/2563eb/ffffff?text=Homepage+with+Hero+Section+and+Search+Form)
+![Homepage](image.png+Form)
 
 **Features shown:**
 - Stunning hero section with luxury hotel background
