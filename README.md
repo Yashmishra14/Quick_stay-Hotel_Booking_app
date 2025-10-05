@@ -8,6 +8,8 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### 🏠 Homepage
 ![Homepage](https://via.placeholder.com/800x400/2563eb/ffffff?text=Homepage+with+Hero+Section+and+Search+Form)
+<img width="1707" height="919" alt="image" src="https://github.com/user-attachments/assets/a68ce3fb-0d50-450d-9ae8-667abb395940" />
+
 
 **Features shown:**
 - Stunning hero section with luxury hotel background
@@ -258,3 +260,4 @@ For support, email support@hotelbooking.com or join our Slack channel.
 ---
 
 **Built with ❤️ for the Indian hospitality market**
+
