@@ -19,6 +19,9 @@ A modern, responsive hotel booking application built with React and Vite, featur
 
 ### 🏨 Featured Hotels
 ![Featured Hotels](https://via.placeholder.com/800x400/1f2937/ffffff?text=Featured+Hotels+Section+with+Indian+Hotels)
+![
+   
+](image.png)
 
 **Features shown:**
 - Four luxury Indian hotel cards: Taj Palace Hotel, Oberoi Mumbai, ITC Gardenia, Leela Palace Chennai
